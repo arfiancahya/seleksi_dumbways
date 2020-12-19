@@ -1,9 +1,13 @@
 const students = [
-    ['David', 80],
-    ['Vinoth', 77],
-    ['Divya', 88],
-    ['Ishitha', 95],
-    ['Thomas', 60]
+    ['David', 20],
+    ['Vinoth', 50],
+    ['Divya', 65],
+    ['Ishitha', 70],
+    ['Thomas', 80],
+    ['Eren', 80],
+    ['Arnold', 30],
+    ['Fian', 55],
+    ['Elaine', 75]
 ];
 
 var Avgmarks = 0;
